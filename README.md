@@ -8,6 +8,8 @@ This repository contains basic C programs to help beginners understand the funda
 - printf.c : Using printf for output
 - shape.c : Programs related to shapes
 - variable.c : Understanding variables in C
+- workingWithNums.c : understanding math function in C
+- calcinsideBrack.c : basic claculations
 
 ## How to Run
 1. Make sure you have GCC installed.
