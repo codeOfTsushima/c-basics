@@ -10,7 +10,9 @@ This repository contains basic C programs to help beginners understand the funda
 - variable.c : Understanding variables in C
 - workingWithNums.c : understanding math function in C
 - calcinsideBrack.c : basic claculations
-
+- gettingUserInput.c : User input functions
+- practiceTwo.c : User input function practice
+- addingOperation.c : Adding operation caculator
 ## How to Run
 1. Make sure you have GCC installed.
 2. Compile any program using:
