@@ -13,6 +13,14 @@ This repository contains basic C programs to help beginners understand the funda
 - gettingUserInput.c : User input functions
 - practiceTwo.c : User input function practice
 - addingOperation.c : Adding operation caculator
+- arrays.c : Learning about arrays
+- madlibsgame.c : Made a mad libs game\
+- madlibsFootball.c : Made mad libs based on a football storyline
+- daystomonthsconverter.c : Converts days to months
+- farenheirttocelsius.c : Converts farenheit to celsius
+- sumofdigitsof3digits.c : calculates the sum of digits of a 3 digit number
+- functions.c : Learn about functions
+- parameter.c : Learn about parameters
 ## How to Run
 1. Make sure you have GCC installed.
 2. Compile any program using:
