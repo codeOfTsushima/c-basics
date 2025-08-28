@@ -42,6 +42,7 @@ This repository contains basic C programs to help beginners understand the funda
 - return.c : Demonstrates function return values
 - struct.c : Usage of struct in C
 - writingFiles.c : Writing to a file
+- studentInfo.c : Student information system
 
 ## How to Run
 1. Make sure you have GCC installed.
