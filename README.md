@@ -43,6 +43,8 @@ This repository contains basic C programs to help beginners understand the funda
 - struct.c : Usage of struct in C
 - writingFiles.c : Writing to a file
 - studentInfo.c : Student information system
+- hangmanFooty.c : Hangman game
+- logicalOrCheck.c : checks the logic of OR operator
 
 ## How to Run
 1. Make sure you have GCC installed.
