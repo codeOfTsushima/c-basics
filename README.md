@@ -1,7 +1,8 @@
 # C Basics
 
 This repository contains basic C programs to help beginners understand the fundamentals of C programming.
-
+## Folder Included
+- Intermediate C programming: Topics covered on Advanced C Programming
 ## Files Included
 - demo.c : Simple demo program
 - practice.c : Practice examples
