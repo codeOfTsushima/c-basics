@@ -17,16 +17,11 @@ This repository contains basic C programs to help beginners understand the funda
 - arrays.c : Learning about arrays
 - madlibsgame.c : Made a mad libs game\
 - madlibsFootball.c : Made mad libs based on a football storyline
-- daystomonthsconverter.c : Converts days to months
-- farenheirttocelsius.c : Converts farenheit to celsius
-- sumofdigitsof3digits.c : calculates the sum of digits of a 3 digit number
 - functions.c : Learn about functions
 - parameter.c : Learn about parameters
 - 2dArraysNestedLoops.c : Demonstrates 2D arrays with nested loops
 - addingOperation.c : Simple arithmetic operations
-- areaOfaCircle.c : Calculates the area of a circle using the formula πr²
 - arrays.c : Demonstrates usage of arrays
-- biggestOfThreeNums.c : Finds the largest of three numbers
 - biggestOfTwoNums.c : Finds the largest of two numbers
 - calculator.c : Simple calculator implementation
 - derefencingPointer.c : Understanding dereferencing
@@ -45,9 +40,8 @@ This repository contains basic C programs to help beginners understand the funda
 - writingFiles.c : Writing to a file
 - studentInfo.c : Student information system
 - hangmanFooty.c : Hangman game
-- logicalOrCheck.c : checks the logic of OR operator
-- reverseAString.c : reversing a string using strrev
 - structureForStudentList.c : Create a student list using struct
+- arrayInputSum.c : Dynamic memory allocation array input sum
 
 ## How to Run
 1. Make sure you have GCC installed.
