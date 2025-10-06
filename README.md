@@ -3,6 +3,9 @@
 This repository contains basic C programs to help beginners understand the fundamentals of C programming.
 ## Folder Included
 - Intermediate C programming: Topics covered on Advanced C Programming
+- Homework: Logical and conceptual questions and program related to C programming
+- logical And Problem Solving: Logical and problem solving questions and programms
+
 ## Files Included
 - demo.c : Simple demo program
 - practice.c : Practice examples
@@ -15,7 +18,7 @@ This repository contains basic C programs to help beginners understand the funda
 - practiceTwo.c : User input function practice
 - addingOperation.c : Adding operation caculator
 - arrays.c : Learning about arrays
-- madlibsgame.c : Made a mad libs game\
+- madlibsgame.c : Made a mad libs game
 - madlibsFootball.c : Made mad libs based on a football storyline
 - functions.c : Learn about functions
 - parameter.c : Learn about parameters
